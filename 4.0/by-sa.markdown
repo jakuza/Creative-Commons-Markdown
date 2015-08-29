@@ -48,11 +48,11 @@ m. __You__ means the individual or entity exercising the Licensed Rights under t
 
 a. ___License grant.___
 
-    1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+  1. Subject to the terms and conditions of this Public License, the Licensor hereby grants You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
 
-        A. reproduce and Share the Licensed Material, in whole or in part; and
+    A. reproduce and Share the Licensed Material, in whole or in part; and
 
-        B. produce, reproduce, and Share Adapted Material.
+    B. produce, reproduce, and Share Adapted Material.
 
     2. __Exceptions and Limitations.__ For the avoidance of doubt, where Exceptions and Limitations apply to Your use, this Public License does not apply, and You do not need to comply with its terms and conditions.
 
